@@ -4,12 +4,15 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <OutputType>Library</OutputType>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="xunit.assert" Version="2.9.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="tyuiu.cources.programming.interfaces">
-      <HintPath>..\tyuiu.cources.programming.interfaces.dll</HintPath>
+      <HintPath>..\..\Tyuiu.ShaykhelislamovaDA.Sprint1\tyuiu.cources.programming.interfaces.dll</HintPath>
     </Reference>
   </ItemGroup>
 

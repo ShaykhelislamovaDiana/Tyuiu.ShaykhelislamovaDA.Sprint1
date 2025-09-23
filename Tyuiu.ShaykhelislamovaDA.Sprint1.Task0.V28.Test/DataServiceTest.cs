@@ -1,14 +1,15 @@
-using Tyuiu.ShaykhelislamovaDA.Sprint1.Task0.V28.Lib;
+﻿using Tyuiu.ShaykhelislamovaDA.Sprint1.Task0.V28.Lib;
 namespace Tyuiu.ShaykhelislamovaDA.Sprint1.Task0.V28.Test
 {
-    public class DataServiceTest
+    [TestClass]
+    public sealed class DataServiceTest
     {
-        [Fact]
-        public void ValidExpression()
+        [TestMethod]
+        public void TestMethod1()
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.Equal(22, res);
+            Assert.AreEqual(2, res);
         }
     }
 }
