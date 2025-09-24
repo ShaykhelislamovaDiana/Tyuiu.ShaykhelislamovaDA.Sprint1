@@ -39,5 +39,6 @@ internal class Program
         Console.WriteLine(ds.Calculate(x, y));
 
         Console.ReadLine();
+
     }
 }
