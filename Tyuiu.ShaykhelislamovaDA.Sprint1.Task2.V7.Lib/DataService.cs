@@ -5,7 +5,7 @@ namespace Tyuiu.ShaykhelislamovaDA.Sprint1.Task2.V7.Lib
     {
         public double CalculateSquareCircle(int value)
         {
-            return value * value * Math.PI;
+            return Math.Round(value * value * Math.PI, 3);
         }
     }
 }

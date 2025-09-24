@@ -9,7 +9,7 @@ namespace Tyuiu.ShaykhelislamovaDA.Sprint1.Task2.V7.Test
         {
             DataService ds = new DataService();
             int x = 2;
-            var res = Math.Round(ds.CalculateSquareCircle(x), 3);
+            var res = ds.CalculateSquareCircle(x);
             Assert.AreEqual(12.566, res);
         }
     }

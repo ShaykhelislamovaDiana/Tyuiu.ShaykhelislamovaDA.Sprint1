@@ -29,6 +29,6 @@ internal class Program
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
         Console.WriteLine("***************************************************************************");
 
-        Console.WriteLine("Площадь круга радиуса Х:" + Math.Round(ds.CalculateSquareCircle(x), 3));
+        Console.WriteLine("Площадь круга радиуса Х:" + ds.CalculateSquareCircle(x));
     }
 }
