@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test0", "Test0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShaykhelislamovaDA.Sprint1.Task0.V28", "Tyuiu.ShaykhelislamovaDA.Sprint1.Task0.V28\Tyuiu.ShaykhelislamovaDA.Sprint1.Task0.V28.csproj", "{94F99856-C4CE-4610-ABBB-4C4BE0C342A5}"
 EndProject
@@ -11,13 +11,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShaykhelislamovaDA.Sp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShaykhelislamovaDA.Sprint1.Task0.V28.Lib", "Tyuiu.ShaykhelislamovaDA.Sprint1.Task0.V28.Lib\Tyuiu.ShaykhelislamovaDA.Sprint1.Task0.V28.Lib.csproj", "{AF9D64B6-17D5-4D20-B68E-F57B1E4D5EB0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test1", "Test1", "{C5B38D9B-3B08-473F-90E6-1EC7AB0FA826}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{C5B38D9B-3B08-473F-90E6-1EC7AB0FA826}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShaykhelislamovaDA.Sprint1.Task1.V20.Test", "Tyuiu.ShaykhelislamovaDA.Sprint1.Task1.V20.Test\Tyuiu.ShaykhelislamovaDA.Sprint1.Task1.V20.Test.csproj", "{4478498F-E9A2-4A64-BF6B-9B5CB7F655AB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShaykhelislamovaDA.Sprint1.Task1.V20.Lib", "Tyuiu.ShaykhelislamovaDA.Sprint1.Task1.V20.Lib\Tyuiu.ShaykhelislamovaDA.Sprint1.Task1.V20.Lib.csproj", "{575C4412-4C70-45F3-B088-89E03DE8C5F5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.ShaykhelislamovaDA.Sprint1.Task1.V20", "Tyuiu.ShaykhelislamovaDA.Sprint1.Task1.V20\Tyuiu.ShaykhelislamovaDA.Sprint1.Task1.V20.csproj", "{A5D0F734-1DC9-487B-8E4A-3A20B8B91857}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{081AB7E7-BCD4-4119-9BA7-21E5636F8C01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
