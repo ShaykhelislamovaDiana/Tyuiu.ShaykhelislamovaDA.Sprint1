@@ -4,6 +4,7 @@ internal class Program
     private static void Main(string[] args)
     {
         DataService ds = new DataService();
+
         Console.Title = "Спринт #1 | Выолнила: Шайхелисламова Д. А. | ПКТБ-25-1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #1                                                               *");
