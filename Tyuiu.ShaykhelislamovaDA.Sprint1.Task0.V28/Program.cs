@@ -27,5 +27,6 @@ internal class Program
 
         Console.WriteLine(ds.Calculate());
         Console.ReadLine();
+
     }
 }
