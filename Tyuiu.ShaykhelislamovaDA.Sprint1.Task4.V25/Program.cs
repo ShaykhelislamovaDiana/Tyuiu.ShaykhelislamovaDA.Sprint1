@@ -21,7 +21,7 @@ internal class Program
         Console.WriteLine("***************************************************************************");
 
         double a;
-        Console.WriteLine("");
+        Console.WriteLine("Введите значение угла а(в радианах):");
         a = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
